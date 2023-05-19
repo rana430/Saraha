@@ -2,13 +2,13 @@
 The Modified Saraha project is a messaging platform that allows users to send anonymous messages to each other. It provides features for user registration, login, managing contacts, sending and receiving messages, undoing sent messages, searching contacts, sorting contacts based on message count, viewing sent and received messages, marking messages as favorites, managing favorite messages, blocking users, reporting users, and receiving notifications for unread messages.
 
 <h2>Features:</h2>
-User Registration/Login: Users can create an account or log in to their existing account to access the messaging platform.
+-User Registration/Login: Users can create an account or log in to their existing account to access the messaging platform.
 
 <h2>Contact Management:</h2>
 
-Add Contacts: Users can add another user to their contacts list only if that user sends them a message.
-Remove Contacts: Users can remove a contact while still being able to view the messages exchanged with that contact.
-Search Contacts: Users can search for a specific contact in their contacts list and receive a "NOT FOUND" report if the contact doesn't exist.
+-Add Contacts: Users can add another user to their contacts list only if that user sends them a message.
+-Remove Contacts: Users can remove a contact while still being able to view the messages exchanged with that contact.
+-Search Contacts: Users can search for a specific contact in their contacts list and receive a "NOT FOUND" report if the contact doesn't exist.
 
 <h2>Messaging:</h2>
 
