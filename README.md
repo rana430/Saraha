@@ -18,7 +18,7 @@ The Modified Saraha project is a messaging platform that allows users to send an
 
 <h2>Favorites:</h2>
 
--Add to Favorites: Users can mark messages as favorites.<br><br>
+-Add to Favorites: Users can mark messages as favorites.<br>
 -Remove from Favorites: Users can remove the oldest favorite message from their favorites list.<br>
 -View Favorite Messages: Users can view all their favorite messages.<br>
 
